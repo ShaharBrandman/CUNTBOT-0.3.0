@@ -1,0 +1,30 @@
+{
+    "CUNT-BOT": {
+        "cb": "Version 0.3.0"
+    },
+    "PREFIX": {
+        "cbp:": "`"
+    },
+    "INFO-COMMANDS": {
+        "if": "info patch notes, rank <profile>"
+    },
+    "Conversation-Commands": {
+        "cm": "speak <amount> <message>, is it time?"
+    },
+    "MINECRAFT-COMMANDS": {
+        "mc": "mc status <IP>"
+    },
+    "GET-COMMANDS": {
+        "get": "get pic <topic>,  new supreme leader, get supreme leader contenders, \nsummon <@somebody>, get rank leaderboard"
+    },
+    "new-Idea": {
+        "ni": "new idea <cool bot idea> or new server idea <epic new idea>"
+    },
+    "give": {
+        "g": "give rank <score> <profile>"
+    },
+    "Leader": {
+        "cLeader": "Yair",
+        "cLeaderID": "287991413868593174"
+    }
+}
